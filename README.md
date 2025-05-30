@@ -9,4 +9,4 @@ Santa’s elves have developed a new logistics software to optimize gift deliver
 
 3. Handles delayed data using Promises
 
-4. Identifies optimal packages (aren't fragil, has a weight) per destination
+4. Identifies optimal packages (aren't fragile, has a weight) per destination
